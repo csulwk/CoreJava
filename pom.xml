@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.lwk</groupId>
-    <artifactId>CoreJava</artifactId>
+    <artifactId>core-java</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
@@ -18,7 +18,7 @@
     </dependencies>
 
     <build>
-        <finalName>CoreJava</finalName>
+        <finalName>core-java</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
